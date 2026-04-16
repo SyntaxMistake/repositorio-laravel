@@ -48,14 +48,21 @@ Se instalaron las siguientes dependencias y flujo:
 
 El presente laboratorio se desarrolló utilizando el patrón de arquitectura de software MVC (Modelo - Vista - Controlador), implementado mediante el framework Laravel. Este patrón permite separar la lógica de negocio, la interfaz de usuario y el control de flujo de la aplicación, facilitando el mantenimiento y la escalabilidad del código.
 
+### Dificultades y soluciones.
+
+#### Durante el proceso de instalación de laravel no me permitio realizar `laravel new example-app` y me mostraba el siguiente error `command not found: laravel` <br>
+
+##### Solución: <br>
+    Realice el siguiente comando en la terminal de MacOS:
+    `/bin/bash -c "$(curl -fsSL https://php.new/install/mac/8.4)"`
+
 ---
 
 ## Referencias
-https://www.php.net/docs.php <br>
-https://www.php.net/manual/es/language.control-structures.php <br>
-https://www.w3schools.com/php/ <br>
 
---
+[Laravel Instalador](https://laravel.com/docs/13.x/installation) <br>
+
+---
 
 ## Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
 
