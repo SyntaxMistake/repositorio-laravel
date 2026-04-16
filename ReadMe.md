@@ -52,14 +52,14 @@ El presente laboratorio se desarrolló utilizando el patrón de arquitectura de 
 
 ## Referencias
 https://www.php.net/docs.php <br>
-https://www.php.net/manual/es/language.control-structures.php
-https://www.w3schools.com/php/
+https://www.php.net/manual/es/language.control-structures.php <br>
+https://www.w3schools.com/php/ <br>
 
 --
 
 ## Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
 
-Nombre: Jose Barahona
-Correo: jose.barahona7@utp.ac.pa
-Curso: Desarrollo de Software VII
+Nombre: Jose Barahona <br>
+Correo: jose.barahona7@utp.ac.pa    <br>
+Curso: Desarrollo de Software VII   <br>
 Instructor del Laboratorio: Irina Fong.
