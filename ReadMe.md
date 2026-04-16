@@ -46,18 +46,18 @@ Se instalaron las siguientes dependencias y flujo:
 
 ## Introducción
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+El presente laboratorio se desarrolló utilizando el patrón de arquitectura de software MVC (Modelo - Vista - Controlador), implementado mediante el framework Laravel. Este patrón permite separar la lógica de negocio, la interfaz de usuario y el control de flujo de la aplicación, facilitando el mantenimiento y la escalabilidad del código.
 
 ---
 
 ## Referencias
-https://www.php.net/docs.php
+https://www.php.net/docs.php <br>
 https://www.php.net/manual/es/language.control-structures.php
 https://www.w3schools.com/php/
 
 --
 
-##Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
+## Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
 
 Nombre: Jose Barahona
 Correo: jose.barahona7@utp.ac.pa
