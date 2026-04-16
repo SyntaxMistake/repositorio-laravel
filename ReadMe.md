@@ -1,0 +1,33 @@
+# Repositorio de Laravel
+
+![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## Prerequisito: (ecosistema de desarrollo del lab)
+    ▪ PHP versión 8.0 o superior.
+    ▪ Composer última versión estable.
+    ▪ Laravel Installer o crear proyecto con laravel new composer create-project.
+    ▪ Paquete de servidor web local. (Entorno de Desarrollo)(ej.XAMPP, WampServer o Laragon).
+    ▪ Servidor web: Apache o Nginx
+    ▪ Base de datos MySQL/MariaDB funcionando.
+    ▪ Editor de código (Visual Studio Code recomendado).
+
+---
+##Instalacion de dependencias
+
+
+---
+## Referencias
+https://www.php.net/docs.php
+https://www.php.net/manual/es/language.control-structures.php
+https://www.w3schools.com/php/
+
+--
+##Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
+Nombre: Jose Barahona
+Correo: jose.barahona7@utp.ac.pa
+Curso: Desarrollo de Software VII
+Instructor del Laboratorio: Irina Fong.
