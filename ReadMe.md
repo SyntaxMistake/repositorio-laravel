@@ -7,6 +7,7 @@
 ---
 
 ## Prerequisito: (ecosistema de desarrollo del lab)
+
     ▪ PHP versión 8.0 o superior.
     ▪ Composer última versión estable.
     ▪ Laravel Installer o crear proyecto con laravel new composer create-project.
@@ -16,8 +17,31 @@
     ▪ Editor de código (Visual Studio Code recomendado).
 
 ---
-##Instalacion de dependencias
+## Instalacion de dependencias
 
+Se instalaron las siguientes dependencias y flujo:
+    |   Composer  |   php composer-setup.php --install-dir=bin --filename=composer|
+    |   Laravel |   composer global require laravel/installer|
+    |   Laravel UI  |   composer require laravel/ui|
+
+---
+##Flujo de proyecto Laravel
+
+|   Orden   |   Paso|
+|   1   |   laravel new example-app|
+
+|   2   |   php artisan serve|
+|   3   |   composer require laravel/ui|
+|   4   |   php artisan ui bootstrap|
+|   5   |   php artisan ui bootstrap --auth|
+|   6   |   npm install|
+|   7   |   npm run dev|
+|   8   |   php artisan serve|
+
+---
+##Introducción
+
+Screenshot 2026-04-16 at 09.46.16
 
 ---
 ## Referencias
