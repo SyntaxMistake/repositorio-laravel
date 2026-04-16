@@ -61,6 +61,13 @@ Realice el siguiente comando en la terminal de MacOS: <br>
 
 ## Ejecución
 
+<img width="814" height="379" alt="Screenshot 2026-04-16 at 09 46 16" src="https://github.com/user-attachments/assets/27b2ebad-323f-4971-924c-d3b2b6a02a04" />
+ <br>
+ <img width="1673" height="923" alt="Screenshot 2026-04-16 at 10 21 05" src="https://github.com/user-attachments/assets/04ac29fb-8d43-4729-a05d-02b65df31719" />
+ <br>
+ <img width="1673" height="923" alt="Screenshot 2026-04-16 at 10 21 13" src="https://github.com/user-attachments/assets/80f9e688-4048-4dc9-81a5-56fd463306a2" />
+ <br>
+ <img width="1673" height="923" alt="Screenshot 2026-04-16 at 10 21 57" src="https://github.com/user-attachments/assets/c0ecbe05-7e89-48da-aff2-4297b9470389" />
 
 
 ---
