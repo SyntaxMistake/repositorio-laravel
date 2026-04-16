@@ -20,9 +20,11 @@
 ## Instalacion de dependencias
 
 Se instalaron las siguientes dependencias y flujo:
-    |   Composer  |   php composer-setup.php --install-dir=bin --filename=composer|
-    |   Laravel |   composer global require laravel/installer|
-    |   Laravel UI  |   composer require laravel/ui|
+| Dependencia | Comando |
+|-------------|---------|
+| Composer | `php composer-setup.php --install-dir=bin --filename=composer` |
+| Laravel | `composer global require laravel/installer` |
+| Laravel UI | `composer require laravel/ui` |
 
 ---
 ##Flujo de proyecto Laravel
@@ -41,7 +43,6 @@ Se instalaron las siguientes dependencias y flujo:
 ---
 ##Introducción
 
-Screenshot 2026-04-16 at 09.46.16
 
 ---
 ## Referencias
