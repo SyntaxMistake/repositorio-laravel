@@ -17,6 +17,7 @@
     ▪ Editor de código (Visual Studio Code recomendado).
 
 ---
+
 ## Instalacion de dependencias
 
 Se instalaron las siguientes dependencias y flujo:
@@ -27,31 +28,34 @@ Se instalaron las siguientes dependencias y flujo:
 | Laravel UI | `composer require laravel/ui` |
 
 ---
+
 ##Flujo de proyecto Laravel
-
-|   Orden   |   Paso|
-|-----------|-------|
-|   1   |   laravel new example-app|
-
-|   2   |   php artisan serve|
-|   3   |   composer require laravel/ui|
-|   4   |   php artisan ui bootstrap|
-|   5   |   php artisan ui bootstrap --auth|
-|   6   |   npm install|
-|   7   |   npm run dev|
-|   8   |   php artisan serve|
+| Orden | Paso                            |
+|-------|---------------------------------|
+| 1     | `laravel new example-app`       |
+| 2     | `php artisan serve`             |
+| 3     | `composer require laravel/ui`   |
+| 4     | `php artisan ui bootstrap`      |
+| 5     | `php artisan ui bootstrap --auth` |
+| 6     | `npm install`                   |
+| 7     | `npm run dev`                   |
+| 8     | `php artisan serve`             |
 
 ---
+
 ##Introducción
 
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
+
 ## Referencias
 https://www.php.net/docs.php
 https://www.php.net/manual/es/language.control-structures.php
 https://www.w3schools.com/php/
 
 --
+
 ##Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
 Nombre: Jose Barahona
 Correo: jose.barahona7@utp.ac.pa
