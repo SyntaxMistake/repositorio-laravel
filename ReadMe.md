@@ -54,7 +54,8 @@ El presente laboratorio se desarrolló utilizando el patrón de arquitectura de 
 Durante el proceso de instalación de laravel no me permitio realizar `laravel new example-app` y me mostraba el siguiente error `command not found: laravel` <br>
 
 #### Solución: <br>
-    Realice el siguiente comando en la terminal de MacOS: `/bin/bash -c "$(curl -fsSL https://php.new/install/mac/8.4)"`
+Realice el siguiente comando en la terminal de MacOS: <br>
+`/bin/bash -c "$(curl -fsSL https://php.new/install/mac/8.4)"`
 
 ---
 
