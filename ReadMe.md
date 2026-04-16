@@ -30,6 +30,7 @@ Se instalaron las siguientes dependencias y flujo:
 ##Flujo de proyecto Laravel
 
 |   Orden   |   Paso|
+|-----------|-------|
 |   1   |   laravel new example-app|
 
 |   2   |   php artisan serve|
