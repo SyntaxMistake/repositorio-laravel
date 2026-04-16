@@ -75,7 +75,7 @@ Realice el siguiente comando en la terminal de MacOS: <br>
 ## Referencias
 
 [Documentacion de Laravel](https://laravel.com/docs/13.x/installation) <br>
-[Video guía para instalar laravel en MacOS](https://www.youtube.com/watch?v=DtUY8J2T-mc)
+[Video guía para instalar laravel en MacOS](https://www.youtube.com/watch?v=DtUY8J2T-mc) <br>
 [Guia de instalacion Laravel general](https://www.youtube.com/watch?v=GZMGyYNq3hE)
 
 ---
